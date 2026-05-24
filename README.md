@@ -1,4 +1,4 @@
-# 🎯 How to display a coordinate grid and find the screen center via terminal / Как отобразить координатную сетку центра экрана
+# 🎯 How to display a coordinate grid and find the screen center via terminal / 🎯 Как отобразить координатную сетку центра экрана
 
 A lightweight, automated solution to overlay a coordinate grid on your display and instantly find the exact screen center using a single terminal command. 
 
